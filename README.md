@@ -1,1 +1,1 @@
-# ai-anti-theft-detection
+# shoplifting-ai-model
